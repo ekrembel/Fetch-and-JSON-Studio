@@ -42,8 +42,6 @@ window.addEventListener("load", function() {
                     </div>    
                     `;
                 }
-                
-
                 i = i + 1;
                 if (i > astronauts.length - 1) {
                     alert("Here the last one comes");
