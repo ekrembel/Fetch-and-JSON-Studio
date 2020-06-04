@@ -5,12 +5,26 @@
 }
 
 .astronaut {
+    text-align: left;
     border: 1px solid black;
     display: flex;
     justify-content: space-between;
-    width: 500px;
+    /* width: 500px; */
     align-items: center;
     padding: 5px;
     margin-bottom: 20px;
     border-radius: 6px;
+}
+#but {
+    padding-top: 25px;
+    padding-bottom: 50px;
+    position: relative;
+}
+body {
+    text-align: center;
+}
+div {
+    
+    padding-left: 50px;
+    padding-right: 50px;
 }
